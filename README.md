@@ -11,7 +11,7 @@
 
 * 🎨 UI / UX Design · Figma · Photoshop · Illustrator
 * ⚙️ Astro · Notion API · HTML / CSS · JS
-* 🤖 AI Tools: ComfyUI · Midjourney
+* 🤖 AI Tools: ComfyUI · Midjourney · Cursor
 
 ### 🤝 Let’s Connect / 合作欢迎
 
