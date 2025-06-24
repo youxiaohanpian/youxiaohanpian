@@ -10,7 +10,7 @@
 ### 🧰 Skills & Tools
 
 * 🎨 UI / UX Design · Figma · Photoshop · Illustrator
-* ⚙️ Astro · Notion API · HTML / CSS · 少量 JS
+* ⚙️ Astro · Notion API · HTML / CSS · JS
 * 🤖 AI Tools: ChatGPT · Midjourney · ComfyUI · OpenwebUI
 
 ### 🤝 Let’s Connect / 合作欢迎
