@@ -20,10 +20,13 @@
 * 💬 可以一起聊聊设计、美感、AI图像、博客变现、小项目开发\~
 * 🌌 我相信表达比沉默更有力量，哪怕只是一篇日志
   
-## 📊 我的 GitHub 数据
-| 项目统计 | 常用语言 |
+## 📊 GitHub 数据
+|项目统计|常用语言| 
 |----------|----------|
-|[![Stats](https://github-readme-stats.vercel.app/api?username=youxiaohanpian&show_icons=true&theme=radical)](https://github.com/youxiaohanpian/)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youxiaohanpian&layout=compact)](https://github.com/youxiaohanpian/)  |
+|[![Stats](https://github-readme-stats.vercel.app/api?username=youxiaohanpian&show_icons=true&theme=radical)](https://github.com/youxiaohanpian/)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youxiaohanpian&layout=compact)](https://github.com/youxiaohanpian/) 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youxiaohanpian) 
+
 
 <!--
 ### 🌱 近期项目
