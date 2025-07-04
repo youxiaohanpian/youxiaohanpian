@@ -18,11 +18,22 @@
 * 📬 Reach me at: `tian.33@foxmail.com`
 * 🌱 Looking to collaborate on: **Notion-driven content**, **AI design workflows**, **博客搭建**
 * 💬 可以一起聊聊设计、美感、AI图像、博客变现、小项目开发\~
+* 🌌 我相信表达比沉默更有力量，哪怕只是一篇日志
+  
+## 📊 我的 GitHub 数据
+| 项目统计 | 常用语言 |
+|----------|----------|
+|[![Stats](https://github-readme-stats.vercel.app/api?username=youxiaohanpian&show_icons=true&theme=radical)](https://github.com/youxiaohanpian/)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youxiaohanpian&layout=compact)](https://github.com/youxiaohanpian/)  |
 
-### 💡 Fun facts about me
-
-* 🐝 一只「幻彩小蜜蜂」——努力又多彩
-* 🌌 我相信表达比沉默更有力量，哪怕只是小小的一篇日志
+<!--
+### 🌱 近期项目
+- [项目](链接) | 基于AI的图像识别工具
+- [项目1](链接) | 基于AI的图像识别工具
+- [项目2](链接) | 高性能数据爬虫框架
+-->  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
+</p>
 
 <!--
 **youxiaohanpian/youxiaohanpian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
