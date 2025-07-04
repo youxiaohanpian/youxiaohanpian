@@ -1,0 +1,24 @@
+name: Update Stats
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:       # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Stats
+        run: |
+          # 通过访问API链接强制刷新CDN缓存
+          curl -s "https://github-readme-stats.vercel.app/api?username=nanmicoder&theme=radical" > /dev/null
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=nanmicoder" > /dev/null
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "bot: update stats"
+          add: README.md
