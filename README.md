@@ -17,7 +17,7 @@
 
 * 📬 Reach me at: `tian.33@foxmail.com`
 * 🌱 Looking to collaborate on: **Notion-driven content**, **AI design workflows**, **博客搭建**
-* 💬 可以一起聊聊设计、美感、AI图像、个人博客~
+* 💬 可以一起聊聊AI应用、设计、个人博客~
 * 🌌 我相信表达比沉默更有力量，哪怕只是一篇日志
   
 ## 📊 GitHub 数据
